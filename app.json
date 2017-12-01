@@ -1,0 +1,23 @@
+{
+  "id": "bc293360-2138-447f-830c-252db217ec21",
+  "name": "Online-NAV-Class-December-17",
+  "publisher": "Dmitry Katson",
+  "brief": "",
+  "description": "This app will download airplines types",
+  "version": "0.0.0.1",
+  "compatibilityId": "0.0.0.1",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
