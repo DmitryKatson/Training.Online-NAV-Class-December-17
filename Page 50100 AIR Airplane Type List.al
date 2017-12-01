@@ -49,7 +49,7 @@ page 50100 "AIR Airplane Type List"
                 var
                // ICAOFunctions : Codeunit "AIR ICAO Functions"
                begin
-                   Message ('TODO: Action');
+                   Message ('TODO: Action to sync with web service');
                end;
 
                 
